@@ -3,10 +3,9 @@ Automatic Door Bell Sensor
 
 A smart doorbell system that uses an ultrasonic sensor to detect proximity and triggers a buzzer and LED. This project simulates the functionality of light-dependent resistors (LDRs) and thermistors, making it an ideal educational project for beginners in electronics and Arduino.
 
-Project Overview
+Project Overview 
 
 This project demonstrates:
-
 The working of ultrasonic sensors for proximity detection.
 Using Tinkercad for designing and simulating electronic circuits.
 Basics of Arduino programming to control hardware components.
